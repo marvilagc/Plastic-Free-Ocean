@@ -1,0 +1,44 @@
+
+
+
+.yupi {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+.chupy{
+    flex:1;
+  }
+
+.chupylist{
+    margin-top: 0;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.35;
+    
+}
+
+
+
+
+/* blog */
+.tips{
+  margin-top: 10rem;
+  margin-bottom: 4rem;
+  text-transform: uppercase;
+  text-align: center;
+}
+#number{
+  font-size:4rem;
+}
+
+#icons{
+  font-size:10rem;
+  padding-top: 4.5rem;
+  padding-bottom: 4.5rem;
+  padding-right: 2rem;
+  color: var(--blue4)
+}
+
+
+/* blog */
