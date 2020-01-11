@@ -3,10 +3,20 @@
 :root{
 
     --white:#ffff;
+    --white2:#f8f9fa;
+    --transparentwhite1:rgba(255, 255, 255, 0.2);
+    --transparentwhite2:rgba(255, 255, 255, 0.6);
+    --black:rgb(0, 0, 0);
     --blue1:rgba(146, 202, 254, 1);
     --blue2:rgba(3, 72, 115, 1);
     --blue3:rgba(34, 204, 195, 1);
     --blue4:rgba(2, 102, 99, 1);
-    --green:rgba(186, 240, 45, 1);
+    --transparentblue4:rgba(2, 102, 99, 0.8);
+    --green1:rgba(186, 240, 45, 1);
+    --transparentgreen1:rgba(186, 240, 45, 0.4);
+    --green2:rgb(149, 207, 0);
+
+    --shadow1:2px 2px 3px rgba(0, 0, 0, 0.4);
+    --textshadow1:2px 2px 3px rgba(0, 0, 0, 0.5);
     
 }
